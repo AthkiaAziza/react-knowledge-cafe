@@ -6,7 +6,7 @@
       "author": "Hamza Sohail",
       "author_Img": "https://i.ibb.co/fnmQF7z/smiling-studying-woman-park.jpg",
       "posted_date": "Mar 14 (4 Days ago)",
-      "reading_time": 5,
+      "time": 5,
       "hashtags": ["beginners", "es6"]
     },
     {
@@ -16,7 +16,7 @@
       "author": "John Smith",
       "author_Img": "https://i.ibb.co/fnmQF7z/smiling-studying-woman-park.jpg",
       "posted_date": "Mar 14 (4 Days ago)",
-      "reading_time": 5,
+      "time": 5,
       "hashtags": ["beginners", "es6"]
     },
     {
@@ -26,7 +26,7 @@
       "author": "Alice Johnson",
       "author_Img": "https://i.ibb.co/fnmQF7z/smiling-studying-woman-park.jpg",
       "posted_date": "Mar 14 (4 Days ago)",
-      "reading_time": 5,
+      "time": 5,
       "hashtags": ["beginners", "es6"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "Robert Brown",
       "author_Img": "https://i.ibb.co/fnmQF7z/smiling-studying-woman-park.jpg",
       "posted_date": "Mar 14 (4 Days ago)",
-      "reading_time": 5,
+      "time": 5,
       "hashtags": ["beginners", "es6"]
     },
     {
@@ -46,7 +46,7 @@
       "author": "Michael Johnson",
       "author_Img": "https://i.ibb.co/fnmQF7z/smiling-studying-woman-park.jpg",
       "posted_date": "Mar 14 (4 Days ago)",
-      "reading_time": 5,
+      "time": 5,
       "hashtags": ["beginners", "es6"]
     }
   ]
